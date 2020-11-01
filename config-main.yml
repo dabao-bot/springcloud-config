@@ -1,1 +1,2 @@
-config-main.yml
+congfig:
+  info: "main branch , springcloud-config/config-main.yml version = 2"
